@@ -12,8 +12,8 @@
 Credits: Tinaesh
 
 ## Notes
-*Two ways to for a cache to decide on videos based on the weight vector and value vector: A greedy algorithm and a dynamic programming algorithm
-*While dynamic programming algorithm gives the most optimal solution for a single cache. When applied to all caches in the order we have specified, it may not produce the best solution
+* Two ways to for a cache to decide on videos based on the weight vector and value vector: A greedy algorithm and a dynamic programming algorithm
+* While dynamic programming algorithm gives the most optimal solution for a single cache. When applied to all caches in the order we have specified, it may not produce the best solution
 
 ## Score
 |Input| Score|
